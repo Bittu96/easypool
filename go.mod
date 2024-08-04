@@ -1,4 +1,4 @@
-module easypool
+module github.com/Bittu96/easypool
 
 go 1.22.0
 
