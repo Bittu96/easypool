@@ -22,5 +22,4 @@ ep := easypool.New(mockTaskFunc)
 ep.Deploy(10)
 ```
 
-Open to suggestions! 
-Please feel free to contact me incase you need any help or help me improve this package :)
+Open to suggestions! Please feel free to contact me incase you need any help or help me improve this package :)
