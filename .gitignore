@@ -15,7 +15,7 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
 
 # Go workspace file
 go.work
@@ -25,18 +25,4 @@ go.work.sum
 .env
 .vscode/launch.json
 .vscode/settings.json
-vendor/go.uber.org/goleak/.gitignore
-vendor/go.uber.org/goleak/.golangci.yml
-vendor/go.uber.org/goleak/CHANGELOG.md
-vendor/go.uber.org/goleak/doc.go
-vendor/go.uber.org/goleak/leaks.go
-vendor/go.uber.org/goleak/LICENSE
-vendor/go.uber.org/goleak/Makefile
-vendor/go.uber.org/goleak/options.go
-vendor/go.uber.org/goleak/README.md
-vendor/go.uber.org/goleak/testmain.go
-vendor/go.uber.org/goleak/tracestack_new.go
-vendor/go.uber.org/goleak/internal/stack/doc.go
-vendor/go.uber.org/goleak/internal/stack/scan.go
-vendor/go.uber.org/goleak/internal/stack/stacks.go
 coverage.txt
