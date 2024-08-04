@@ -25,7 +25,6 @@ go.work.sum
 .env
 .vscode/launch.json
 .vscode/settings.json
-vendor/modules.txt
 vendor/go.uber.org/goleak/.gitignore
 vendor/go.uber.org/goleak/.golangci.yml
 vendor/go.uber.org/goleak/CHANGELOG.md
